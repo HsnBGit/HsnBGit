@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hassan45B/Hassan45B/output/snake.svg" alt="Snake animation" />
+
 
 ###
