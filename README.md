@@ -62,12 +62,23 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsnbgit&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsnbgit&theme=radical" alt="GitHub Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnbgit&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hsnbgit&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsnbgit&theme=radical" alt="GitHub Streak Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnbgit&layout=compact&theme=radical" alt="Top Languages" width="350" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
 
 ---
 
