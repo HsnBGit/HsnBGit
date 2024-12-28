@@ -63,9 +63,9 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HsnBGit&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=3600" alt="HsnBGit Top Languages" width="250" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HsnBGit&show_icons=true&locale=en&theme=radical&cache_seconds=3600" alt="HsnBGit GitHub Stats" width="250" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HsnBGit&theme=radical&cache_seconds=3600" alt="HsnBGit GitHub Streak Stats" width="300" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HsnBGit&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=3600" alt="HsnBGit Top Languages" width="250"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HsnBGit&show_icons=true&locale=en&theme=radical&cache_seconds=3600" alt="HsnBGit GitHub Stats" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HsnBGit&theme=radical&cache_seconds=3600" alt="HsnBGit GitHub Streak Stats" width="300"/>
 </div>
 
 
