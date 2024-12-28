@@ -3,7 +3,7 @@
 <h4 align="center" style="color: #B0E0E6;">Focused on using technology to drive innovation and solve real-world challenges</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HsnBGit&label=Profile%20views&color=0e75b6&style=flat" alt="HsnBGit" />
+  <img src="https://komarev.com/ghpvc/?username=hsnbgit&label=Profile%20views&color=0e75b6&style=flat" alt="hsnbgit" />
 </p>
 
 ---
@@ -13,17 +13,17 @@
 - 🌟 I specialize in **AI development**, **machine learning**, and **software engineering**.
 - 🚀 I am enthusiastic about **technology innovation** and building impactful **software solutions**.
 - 📖 Constantly learning and exploring new **AI tools** and **frameworks**.
-- 👨‍💻 Explore my projects: [My Portfolio](https://HsnBGit.github.io/Portfolio/)
+- 👨‍💻 Explore my projects: [My Portfolio](https://hsnbgit.github.io/Portfolio/)
 - 📫 Reach out to me at **hassancontact45@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://twitter.com/HsnBGit" target="_blank">
+  <a href="https://twitter.com/hsnbh4swe" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/HsnBGit" target="_blank">
+  <a href="https://linkedin.com/in/hsn-hb" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -60,14 +60,22 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
-
+<h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HsnBGit&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=3600" alt="HsnBGit Top Languages" width="225"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=HsnBGit&show_icons=true&locale=en&theme=radical&cache_seconds=3600" alt="HsnBGit GitHub Stats" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HsnBGit&theme=radical&cache_seconds=3600" alt="HsnBGit GitHub Streak Stats" width="300"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hsnbgit&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsnbgit&theme=radical" alt="GitHub Streak Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsnBGit&layout=compact&theme=radical" alt="Top Languages" width="350" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 
