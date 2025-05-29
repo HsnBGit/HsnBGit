@@ -18,18 +18,6 @@ In the future, I’m excited to dive deeper into agentic AI and reinforcement le
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hsnbh4swe" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/hsn-hb" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
