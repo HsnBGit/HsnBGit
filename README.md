@@ -16,23 +16,3 @@ I enjoy learning about new technologies and applying them to solve real-world pr
 
 In the future, I’m excited to dive deeper into agentic AI and reinforcement learning. I’m always looking to grow, build, and collaborate on meaningful tech projects.
 
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hsnbgit&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsnbgit&theme=radical" alt="GitHub Streak Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsnBGit&layout=compact&theme=radical" alt="Top Languages" width="350" />
-      </td>
-    </tr>
-  </table>
-</div>
-
